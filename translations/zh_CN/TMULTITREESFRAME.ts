@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+
+<TS version="2.1" language="zh_CN" sourcelanguage="en">
+  <context>
+    <name>TMULTITREESFRAME</name>
+    <message>
+      <source>Preserve Root</source>
+      <comment>Caption (max 13 bytes)</comment>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Preserve Taxa Order</source>
+      <comment>Caption (max 19 bytes)</comment>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Select Tree</source>
+      <comment>Caption (max 11 bytes)</comment>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Showing Tree #</source>
+      <comment>Caption (max 14 bytes)</comment>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>out of 100</source>
+      <comment>Caption (max 10 bytes)</comment>
+      <translation type="unfinished"/>
+    </message>
+  </context>
+</TS>
