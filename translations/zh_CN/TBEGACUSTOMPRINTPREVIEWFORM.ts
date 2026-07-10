@@ -7,7 +7,7 @@
     <message>
       <source>Print preview</source>
       <comment>Caption (max 13 bytes)</comment>
-      <translation type="unfinished"/>
+      <translation type="finished">打印预览</translation>
     </message>
   </context>
 </TS>

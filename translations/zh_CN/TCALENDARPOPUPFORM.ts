@@ -7,7 +7,7 @@
     <message>
       <source>CalendarPopupForm</source>
       <comment>Caption (max 17 bytes)</comment>
-      <translation type="unfinished"/>
+      <translation type="finished">日历弹出窗体</translation>
     </message>
   </context>
 </TS>
