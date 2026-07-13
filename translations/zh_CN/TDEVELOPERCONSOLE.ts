@@ -7,22 +7,22 @@
     <message>
       <source>Clear</source>
       <comment>Caption (max 5 bytes)</comment>
-      <translation type="unfinished"/>
+      <translation type="finished">清空</translation>
     </message>
     <message>
       <source>Close</source>
       <comment>Caption (max 5 bytes)</comment>
-      <translation type="unfinished"/>
+      <translation type="finished">关闭</translation>
     </message>
     <message>
       <source>DeveloperConsole</source>
       <comment>Caption (max 16 bytes)</comment>
-      <translation type="unfinished"/>
+      <translation type="finished">开发者控制台</translation>
     </message>
     <message>
       <source>Keep On Top</source>
       <comment>Caption (max 11 bytes)</comment>
-      <translation type="unfinished"/>
+      <translation type="finished">置顶</translation>
     </message>
   </context>
 </TS>
